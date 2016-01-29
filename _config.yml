@@ -2,6 +2,7 @@ name: voiced
 favicon: null
 layout_spectrum: 0.8420458855107427
 typography_spectrum: 0.8655259069055319
+title: voiced
 cta:
   domain: null
   bucket: null
